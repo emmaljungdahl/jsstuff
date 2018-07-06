@@ -1,1 +1,7 @@
-.ruler { background-color: #CD9573; }
+.box { 
+    display: inline-block;
+    background-color: #CD9573;
+}
+
+
+
