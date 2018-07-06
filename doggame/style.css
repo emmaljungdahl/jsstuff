@@ -3,5 +3,14 @@
     background-color: #CD9573;
 }
 
+img.resize{
+    max-width: 70%;
+    max-height: 70%;
+}
+
+body {
+    background-color: #CC4E65;
+}
+
 
 
